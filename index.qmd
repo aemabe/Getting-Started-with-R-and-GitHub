@@ -1,0 +1,60 @@
+---
+title: "Getting Started with R and Github"
+format: html
+---
+
+This guide will help you install the software needed before our website workshop.
+No prior coding experience is required.
+
+# Getting Started with R
+
+## How to Download R
+
+R is a programming language used for data analysis and creating websites with Quarto.
+
+Navigate to [The Comprehensive R Archive Network](https://cran.r-project.org/) and follow the directions to download and install R.
+
+There are separate versions for Mac, Linux, and Windows users based on your machine.
+
+## How to Download R Studio
+
+RStudio is an application that makes it easier to work with R.
+
+Navigate to [RStudio Desktop](https://posit.co/download/rstudio-desktop/) and follow the directions to install RStudio.
+
+# Getting Started with Github
+
+## How to Make a Personal GitHub
+
+GitHub is a website that stores and shares code projects online.
+
+Navigate to [Creating an account on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) and follow the directions to begin.
+
+## How to Download Git
+
+Git allows your computer to communicate with GitHub.
+
+This step is vital in connecting your GitHub to your RStudio. Navigate to [Git Install](https://git-scm.com/install/) on your machine and follow directions to install.
+
+# Connecting Everything Together
+
+## Configuring Git with your Details
+
+Open the Terminal in RStudio by following the path Tools > Terminal > New Terminal. Copy and paste the following commands one at a time, replacing the example information with your own, and press enter after each command:
+
+```{r, eval=FALSE}
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+
+To connect your RStudio with GitHub, go to Tools > Global Options > Git/SVN. Check the box to Enable version control interface for RStudio projects. Click OK and restart RStudio.
+
+## Check That Git Is Connected
+
+In RStudio, go to Tools > Global Options > Git/SVN
+
+If you see a path listed next to "Git executable", then Git has been successfully installed.
+
+Please bring your GitHub username and password to the workshop.
+
+You should be ready for our website workshop! We look forward to seeing you there!
