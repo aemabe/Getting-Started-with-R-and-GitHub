@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Getting Started with R and Github",
+    "section": "",
+    "text": "This guide will help you install the software needed before our website workshop. No prior coding experience is required."
+  },
+  {
+    "objectID": "index.html#how-to-download-r",
+    "href": "index.html#how-to-download-r",
+    "title": "Getting Started with R and Github",
+    "section": "How to Download R",
+    "text": "How to Download R\nR is a programming language used for data analysis and creating websites with Quarto.\nNavigate to The Comprehensive R Archive Network and follow the directions to download and install R.\nThere are separate versions for Mac, Linux, and Windows users based on your machine."
+  },
+  {
+    "objectID": "index.html#how-to-download-r-studio",
+    "href": "index.html#how-to-download-r-studio",
+    "title": "Getting Started with R and Github",
+    "section": "How to Download R Studio",
+    "text": "How to Download R Studio\nRStudio is an application that makes it easier to work with R.\nNavigate to RStudio Desktop and follow the directions to install RStudio."
+  },
+  {
+    "objectID": "index.html#how-to-make-a-personal-github",
+    "href": "index.html#how-to-make-a-personal-github",
+    "title": "Getting Started with R and Github",
+    "section": "How to Make a Personal GitHub",
+    "text": "How to Make a Personal GitHub\nGitHub is a website that stores and shares code projects online.\nNavigate to Creating an account on GitHub and follow the directions to begin."
+  },
+  {
+    "objectID": "index.html#how-to-download-git",
+    "href": "index.html#how-to-download-git",
+    "title": "Getting Started with R and Github",
+    "section": "How to Download Git",
+    "text": "How to Download Git\nGit allows your computer to communicate with GitHub.\nThis step is vital in connecting your GitHub to your RStudio. Navigate to Git Install on your machine and follow directions to install."
+  },
+  {
+    "objectID": "index.html#configuring-git-with-your-details",
+    "href": "index.html#configuring-git-with-your-details",
+    "title": "Getting Started with R and Github",
+    "section": "Configuring Git with your Details",
+    "text": "Configuring Git with your Details\nOpen the Terminal in RStudio by following the path Tools &gt; Terminal &gt; New Terminal. Copy and paste the following commands one at a time, replacing the example information with your own, and press enter after each command:\n\ngit config --global user.name \"Your Name\"\ngit config --global user.email \"your.email@example.com\"\n\nTo connect your RStudio with GitHub, go to Tools &gt; Global Options &gt; Git/SVN. Check the box to Enable version control interface for RStudio projects. Click OK and restart RStudio."
+  },
+  {
+    "objectID": "index.html#check-that-git-is-connected",
+    "href": "index.html#check-that-git-is-connected",
+    "title": "Getting Started with R and Github",
+    "section": "Check That Git Is Connected",
+    "text": "Check That Git Is Connected\nIn RStudio, go to Tools &gt; Global Options &gt; Git/SVN\nIf you see a path listed next to “Git executable”, then Git has been successfully installed.\nPlease bring your GitHub username and password to the workshop.\nYou should be ready for our website workshop! We look forward to seeing you there!"
+  }
+]
