@@ -46,6 +46,13 @@
     "href": "index.html#check-that-git-is-connected",
     "title": "Getting Started with R and Github",
     "section": "Check That Git Is Connected",
-    "text": "Check That Git Is Connected\nIn RStudio, go to Tools &gt; Global Options &gt; Git/SVN\nIf you see a path listed next to “Git executable”, then Git has been successfully installed.\nPlease bring your GitHub username and password to the workshop.\nYou should be ready for our website workshop! We look forward to seeing you there!"
+    "text": "Check That Git Is Connected\nIn RStudio, go to Tools &gt; Global Options &gt; Git/SVN\nIf you see a path listed next to “Git executable”, then Git has been successfully installed.\nPlease bring your GitHub username and password to the workshop."
+  },
+  {
+    "objectID": "index.html#need-help",
+    "href": "index.html#need-help",
+    "title": "Getting Started with R and Github",
+    "section": "Need Help?",
+    "text": "Need Help?\nIf you need help with the above steps, please reach out to Kendall Thomas (ketho@unc.edu) or Abigail Mabe (amabe@unc.edu) with questions!\nYou should be ready for our website workshop! We look forward to seeing you there!"
   }
 ]

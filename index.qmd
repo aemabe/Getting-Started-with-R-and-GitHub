@@ -57,4 +57,8 @@ If you see a path listed next to "Git executable", then Git has been successfull
 
 Please bring your GitHub username and password to the workshop.
 
+## Need Help?
+
+If you need help with the above steps, please reach out to Kendall Thomas (ketho@unc.edu) or Abigail Mabe (amabe@unc.edu) with questions!
+
 You should be ready for our website workshop! We look forward to seeing you there!
